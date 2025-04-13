@@ -39,12 +39,14 @@ Before you begin, make sure you have the following installed:
 ```bash
 git clone https://github.com/akshay92bokade/gallery-app
 cd gallery-app
+```
 
 ### Step 2: Install Backend Dependencies
 
 ```bash
 composer install
 npm install
+```
 
 ### Step 3: Set up Environment Configuration
 
@@ -52,9 +54,10 @@ npm install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
-
+```
 
 ### Step 7: Run the Development Server
 
 ```bash
 npm run dev
+```

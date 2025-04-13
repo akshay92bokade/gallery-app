@@ -1,4 +1,4 @@
-# Datalogy Test Project - Laravel Image Gallery and User Management
+# Laravel Image Gallery and User Management
 
 This project is a simple Laravel-based web application that provides user authentication, profile management, an image gallery, and cart functionality. It allows users to register, upload their profile pictures, browse an image gallery, add images to a cart, and manage their profiles.
 
@@ -37,8 +37,8 @@ Before you begin, make sure you have the following installed:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/datalogy-test.git
-cd datalogy-test
+git clone https://github.com/akshay92bokade/gallery-app
+cd gallery-app
 
 ### Step 2: Install Backend Dependencies
 
